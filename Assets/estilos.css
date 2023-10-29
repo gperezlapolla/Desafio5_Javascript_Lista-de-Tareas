@@ -1,0 +1,25 @@
+
+body{
+    background-color: rgb(245, 245, 124);
+}
+
+#contenedor {
+    align-items: center;
+    margin: 0 auto;
+    
+    width: 600px;
+    height: 600px;
+    border: solid 2px black;
+    background-color: greenyellow;
+  }
+  .items{
+    display: grid;
+    align-items: center;
+    justify-items: center;
+  }
+  
+  
+  
+  
+  
+  
